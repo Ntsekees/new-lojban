@@ -110,7 +110,7 @@ function setup_2(lexicon) {
 }
 
 function setup() {
-	fetch('lexicon.json')
+	fetch('../lexicon.json')
     .then((response) => response.text())
     .then((json) => {setup_2(JSON.parse(json))});
 }
