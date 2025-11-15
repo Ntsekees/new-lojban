@@ -19,7 +19,7 @@ LANG_KEYS = [
 ]
 
 FIELD_ORDER = (
-    "lemma", "discriminator", "dialect", "supertype", "supertype-alt", "morphotype", "traits", "rafsis", "sememe", "tags", "examples", "synonyms", "etymology", "etymological_notes", "definition_type"
+    "lemma", "discriminator", "dialect", "supertype", "selmaho", "morphotype", "traits", "rafsis", "sememe", "tags", "examples", "synonyms", "etymology", "etymological_notes", "definition_type"
   ) + tuple(LANG_KEYS)
 
 
