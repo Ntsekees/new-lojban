@@ -76,17 +76,23 @@ function html_entry_for(entry) {
 	ehtml = "<summary class='entry-head'><b style='color: #002255;'>" + entry["lemma"] + "</b>";
 	ehtml += " <i style='font-size: 75%;'>" + entry["supertype"] + "</i> — ";
 	ehtml += entry["eng_definition"] + "</summary>";
-	details = "";
+	details = [];
 	for (field in entry) {
 		if (!["lemma", "discriminator", "sypertype", "eng_definition"].includes(field)) {
 			value = entry[field];
 			if (field == "sememe") {
 				value = "<a href='https://ntsekees.github.io/Predilex/viewer/index.html?id=" + value + "'>" + value + "</a>";
 			}
-			details += "<b>" + field + ":</b> " + value + "<br />";
+			details.push("<b>" + field + ":</b> " + value + "<br />");
 		}
 	}
-	ehtml += "<div class='entry-details'>" + details + "</span>"
+	var n = Math.ceil(details.length / 2);
+	var d1 = details.slice(0, n);
+	var d2 = details.slice(n);
+	ehtml += "<table class='entry-details-table'><tr>";
+	ehtml += "<td class='entry-details'>" + d1.join("") + "</td>";
+	ehtml += "<td class='entry-details'>" + d2.join("") + "</td>";
+	ehtml += "</tr></table>";
 	return "<details class='entry'>\n" + ehtml + "\n</details>\n";
 }
 
