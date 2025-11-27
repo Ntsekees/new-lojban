@@ -36,12 +36,12 @@ def all_keys_of(maplist):
 
 def transformed(entry, keys):
 	entry["langdata"] = dict(entry.get("langdata", dict()))
-	for k in ("examples", "etymology", "gloss", "keywords"):
+	for k in ("examples"):
 		entry[k] = json.dumps(
 				entry.get(k, []),
 				ensure_ascii = False)
-	for k in ("rafsis", "synonyms"):
-		entry[k] = "; ".join(entry.get(k, []))
+	#for k in ("rafsis", "synonyms"):
+	#	entry[k] = ", ".join(entry.get(k, []))
 	return reordered(entry, keys)
 
 def reordered(entry, keys):

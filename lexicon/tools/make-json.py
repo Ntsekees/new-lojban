@@ -37,10 +37,10 @@ def transformed(entry):
 		return [] if l == [""] else l
 	def g(l):
 		return "[]" if l in "" else l
-	for k in ("examples", "etymology", "gloss", "keywords"):
+	for k in ("examples"):
 		entry[k] = json.loads(g(entry.get(k, "[]")))
-	for k in ("rafsis", "synonyms"):
-		entry[k] = f(entry.get(k, "").split("; "))
+	#for k in ("rafsis", "synonyms"):
+	#	entry[k] = f(entry.get(k, "").split(", "))
 	return reordered(entry)
 
 def reordered(entry):
