@@ -46,12 +46,13 @@ def as_map(row, header):
 		if s == "":
 			print(f"⚠⚠⚠ INVALID ENTRY FOR LEMMA ⟪{row[1]}⟫!")
 		return s
+	selmaho = checked_nonempty(row[2]).upper().replace("'", "h")
 	return {
 		"lemma": checked_nonempty(row[1]),
 		"discriminator": "",
 		"dialect": "",
-		"supertype": "",
-		"selmaho":  checked_nonempty(row[2]).upper().replace("'", "h"),
+		"supertype": "V" if selmaho == "BRIVLA" else "",
+		"selmaho": selmaho,
 		"morphotype": "",
 		"traits": "",
 		"rafsis": row[4],
