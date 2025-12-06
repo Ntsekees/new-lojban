@@ -72,12 +72,14 @@ function validated_by_filter(entry, filter) {
 	return true;
 }
 
-function html_entry_for(entry) {
+function html_entry_for(entry, field_selection) {
 	ehtml = "<summary class='entry-head'><b style='color: #002255;'>" + entry["lemma"] + "</b>";
 	ehtml += " <i style='font-size: 75%;'>" + entry["supertype"] + "</i> — ";
 	ehtml += entry["eng_definition"] + "</summary>";
 	details = [];
 	for (field in entry) {
+		if (field_selection === "AllNonempty" && ["", []].includes(entry[field]))
+			continue;
 		if (!["lemma", "discriminator", "sypertype", "eng_definition"].includes(field)) {
 			value = entry[field];
 			if (field == "sememe") {
@@ -97,6 +99,7 @@ function html_entry_for(entry) {
 }
 
 function run() {
+	var field_selection = document.getElementById("fields-selector").value;
 	var filter = document.getElementById("filter-text").value;
 	var html = "";
 	var count = 0;
@@ -104,7 +107,7 @@ function run() {
 		for (const entry of g_lexicon) {
 			if (filter != "" && !validated_by_filter(entry, filter)) continue;
 			count += 1;
-			html += html_entry_for(entry);
+			html += html_entry_for(entry, field_selection);
 		}
 	}
 	html += "<div class='entry'></div>\n";
