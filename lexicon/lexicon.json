@@ -36880,6 +36880,23 @@
     "eng_jvs_glosswords": "Triforce | fictional item"
   },
   {
+    "lemma": "cibru",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "V",
+    "selmaho": "BRIVLA",
+    "morphotype": "",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "",
+    "eng_etymological_notes": "EN fiber ZH 纤维 xiānwéi HI फ़ाइबर fāībar ES fibra AR ليفَة līfa FR fibre",
+    "eng_definition": "➊ is fibers of ➋ material.",
+    "eng_notes": "Also, fibrous.  This differs from cilta in that it is a marji(material), not a tarmi(a shape).  For example, unspun wool is cibru jenaicu cilta"
+  },
+  {
     "lemma": "cibvanci",
     "discriminator": "",
     "dialect": "",
@@ -177179,6 +177196,23 @@
     "eng_jvs_glosswords": "scalar abator | "
   },
   {
+    "lemma": "rei'i",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "",
+    "selmaho": "UI2",
+    "morphotype": "",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "",
+    "eng_etymological_notes": "vreji",
+    "eng_definition": "evidential: I know from sensorial recordings made by external devices (photographic or video camera, sound recorders…).",
+    "eng_notes": ""
+  },
+  {
     "lemma": "reisku",
     "discriminator": "",
     "dialect": "",
@@ -246427,6 +246461,23 @@
     "etymology": "",
     "eng_definition": "dimensionality of space interval tense: 2-space interval; throughout an area.",
     "eng_jvs_glosswords": "2-space interval | "
+  },
+  {
+    "lemma": "vi'ai",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "",
+    "selmaho": "UI2",
+    "morphotype": "",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "",
+    "eng_etymological_notes": "vrici",
+    "eng_definition": "evidential: I know from sources of different types, confirming each other.",
+    "eng_notes": ""
   },
   {
     "lemma": "vi'amde",
