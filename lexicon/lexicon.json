@@ -137410,6 +137410,23 @@
     "eng_jvs_glosswords": "mid-autumn |  ‖ mid-fall | "
   },
   {
+    "lemma": "mijycutybo'u",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "V",
+    "selmaho": "BRIVLA",
+    "morphotype": "",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "",
+    "eng_etymological_notes": "cutne + bongu",
+    "eng_definition": "➊ is a/the sternum/breastbone of ➋.",
+    "eng_notes": ""
+  },
+  {
     "lemma": "mijykemkarsna",
     "discriminator": "",
     "dialect": "",
@@ -269842,6 +269859,23 @@
     "synonyms": "",
     "etymology": "zuk, jbo, zukte; mu'i, jbo, mukti",
     "eng_definition": "being aware that ➊ is the case motivates ➋ to do ➌ (irrealis)."
+  },
+  {
+    "lemma": "zuknei",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "V",
+    "selmaho": "BRIVLA",
+    "morphotype": "",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "",
+    "eng_etymological_notes": "zukte nelci",
+    "eng_definition": "➊ enjoys being/doing ➋",
+    "eng_notes": ""
   },
   {
     "lemma": "zukpei",
