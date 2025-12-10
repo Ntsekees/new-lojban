@@ -22790,6 +22790,23 @@
     "eng_jvs_glosswords": "elbow | body part"
   },
   {
+    "lemma": "bircidycra",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "V",
+    "selmaho": "BRIVLA",
+    "morphotype": "",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "",
+    "eng_etymological_notes": "birka + cidni + crane",
+    "eng_definition": "➊ is an antecubitus of ➋.",
+    "eng_notes": ""
+  },
+  {
     "lemma": "birco",
     "discriminator": "",
     "dialect": "",
@@ -22875,6 +22892,23 @@
     "eng_definition": "➊ grasps/holds/hugs ➋ with ➊'s arms, at locus ➌.",
     "eng_notes": "See also {pamjai}.",
     "eng_jvs_glosswords": "hug, embrace | "
+  },
+  {
+    "lemma": "birjanbo'u",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "V",
+    "selmaho": "BRIVLA",
+    "morphotype": "",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "",
+    "eng_etymological_notes": "birka + janco + bongu",
+    "eng_definition": "➊ is a/the shoulder blade/scapula of ➋.",
+    "eng_notes": ""
   },
   {
     "lemma": "birjanco",
@@ -25081,6 +25115,23 @@
     "synonyms": "",
     "etymology": "",
     "eng_definition": "➊ is a cornflower of type ➋"
+  },
+  {
+    "lemma": "bluzba",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "V",
+    "selmaho": "BRIVLA",
+    "morphotype": "",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "",
+    "eng_etymological_notes": "ciblu + zbasu",
+    "eng_definition": "➊ forms blood/performs hematopoiesis.",
+    "eng_notes": ""
   },
   {
     "lemma": "bo",
@@ -35214,6 +35265,23 @@
     "eng_jvs_keywords": "1 | pilgrim |  ‖ 2 | significant location | "
   },
   {
+    "lemma": "cesybo'u",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "V",
+    "selmaho": "BRIVLA",
+    "morphotype": "",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "",
+    "eng_etymological_notes": "censa + bongu",
+    "eng_definition": "➊ is a/the sacrum of ➋.",
+    "eng_notes": "Calque of Latin os sacrum; 4 out of 6 source languages have a variation on \"sacrum\" as the corresponding word"
+  },
+  {
     "lemma": "cesycku",
     "discriminator": "",
     "dialect": "",
@@ -36709,6 +36777,23 @@
     "eng_definition": "➊ is a triangle (musical instrument).",
     "eng_notes": "Cf. {cibjgatai}, {balzgibe'e}, {bikydamri}.",
     "eng_jvs_glosswords": "triangle | musical instrument"
+  },
+  {
+    "lemma": "cibjgataislu",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "V",
+    "selmaho": "BRIVLA",
+    "morphotype": "",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "",
+    "eng_etymological_notes": "ci + jganu + tarmi + sluji",
+    "eng_definition": "➊ is a/the deltoid muscle of ➋.",
+    "eng_notes": ""
   },
   {
     "lemma": "cibjmagutci",
@@ -165218,6 +165303,23 @@
     "eng_jvs_glosswords": "form array |  ‖ form list |  ‖ form tuple | "
   },
   {
+    "lemma": "pibgaxybi'i",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "V",
+    "selmaho": "BRIVLA",
+    "morphotype": "",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "",
+    "eng_etymological_notes": "plibu + ganxo + jbini",
+    "eng_definition": "➊ is the perineum of ➋.",
+    "eng_notes": ""
+  },
+  {
     "lemma": "piblitki",
     "discriminator": "",
     "dialect": "",
@@ -205747,6 +205849,23 @@
     "eng_jvs_glosswords": "Slavic | "
   },
   {
+    "lemma": "slubogbi'aske",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "V",
+    "selmaho": "BRIVLA",
+    "morphotype": "",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "",
+    "eng_etymological_notes": "sluji + bongu + bilma + saske",
+    "eng_definition": "➊ is orthopedics based on methodology ➋.",
+    "eng_notes": ""
+  },
+  {
     "lemma": "sluji",
     "discriminator": "",
     "dialect": "",
@@ -224146,6 +224265,23 @@
     "eng_jvs_keywords": "1 | taste | feeling"
   },
   {
+    "lemma": "tasybo'u",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "V",
+    "selmaho": "BRIVLA",
+    "morphotype": "",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "",
+    "eng_etymological_notes": "tansi + bongu",
+    "eng_definition": "➊ is a/the pelvis of ➋.",
+    "eng_notes": "Latin and Chinese use the same basin metaphor!"
+  },
+  {
     "lemma": "tatpi",
     "discriminator": "",
     "dialect": "",
@@ -241726,6 +241862,23 @@
     "eng_definition": "➊ is a centipede."
   },
   {
+    "lemma": "tupcidni",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "V",
+    "selmaho": "BRIVLA",
+    "morphotype": "",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "",
+    "eng_etymological_notes": "tuple + cidni",
+    "eng_definition": "➊ is a knee of ➋.",
+    "eng_notes": ""
+  },
+  {
     "lemma": "tupcutci",
     "discriminator": "",
     "dialect": "",
@@ -241758,6 +241911,23 @@
     "eng_definition": "➊ is a/the leg [body-part] of ➋; [metaphor: supporting branch].",
     "eng_notes": "See also {stani}, {zbepi}, {jamfu}, {jimca}, {sanli}.",
     "eng_jvs_glosswords": "leg | "
+  },
+  {
+    "lemma": "tupyjancinje",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "V",
+    "selmaho": "BRIVLA",
+    "morphotype": "",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "",
+    "eng_etymological_notes": "tuple + janco + cinje",
+    "eng_definition": "➊ is the groin/inguinal region of ➋.",
+    "eng_notes": ""
   },
   {
     "lemma": "tupyjanco",
