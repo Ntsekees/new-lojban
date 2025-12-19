@@ -270949,5 +270949,39 @@
     "etymology": "",
     "eng_definition": "exophoric article: some certain thing(s) which… (identity ascertainable from the context).",
     "eng_jvs_glosswords": "a certain | something whose identity is ascertainable from context"
+  },
+  {
+    "lemma": "bagbo'u",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "V",
+    "selmaho": "BRIVLA",
+    "morphotype": "",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "",
+    "eng_etymological_notes": "bargu + bongu",
+    "eng_definition": "➊ is a rib of ➋.",
+    "eng_notes": "Supersedes cutybo'u."
+  },
+  {
+    "lemma": "feprytu'o",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "V",
+    "selmaho": "BRIVLA",
+    "morphotype": "",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "",
+    "eng_etymological_notes": "fepri tunlo",
+    "eng_definition": "➊ aspirates material ➋",
+    "eng_notes": "Aspiration in the medical sense, which is when a bolus enters the trachea."
   }
 ]
