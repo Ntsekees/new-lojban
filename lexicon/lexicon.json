@@ -194901,24 +194901,6 @@
     "eng_jvs_keywords": "1 | cross product | Cartesian product (set theoretic)"
   },
   {
-    "lemma": "selcna",
-    "discriminator": "",
-    "dialect": "",
-    "supertype": "V",
-    "selmaho": "BRIVLA",
-    "morphotype": "lujvo",
-    "traits": "",
-    "rafsis": "",
-    "sememe": "",
-    "examples": [],
-    "synonyms": "",
-    "etymology": "sel, jbo, se; cna, jbo, canpa",
-    "eng_definition": "➊ is a shovel/spade/bladed digging implement for digging ➋.",
-    "eng_notes": "{se} {canpa}",
-    "eng_jvs_glosswords": "shoveled | something dug with an implement",
-    "eng_jvs_keywords": "1 | shoveled | something dug with an implement"
-  },
-  {
     "lemma": "selcpi",
     "discriminator": "",
     "dialect": "",
