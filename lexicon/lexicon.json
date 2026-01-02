@@ -99771,6 +99771,23 @@
     "eng_jvs_glosswords": "gather | "
   },
   {
+    "lemma": "jmaki'e",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "V",
+    "selmaho": "BRIVLA",
+    "morphotype": "",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "ruruni-lunife",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "jma, jbo, jamfu; ki'e, jbo, kicne",
+    "eng_etymological_notes": "",
+    "eng_definition": "➊ is a pad (body part), a pawpad of ➋.",
+    "eng_notes": ""
+  },
+  {
     "lemma": "jmani'a",
     "discriminator": "",
     "dialect": "",
