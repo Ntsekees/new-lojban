@@ -32,13 +32,13 @@ def with_added_submissions(data, submissions):
 	if len(submissions) > 1:
 		header, body = submissions[0], submissions[1 :]
 		submissions = [as_map(row, header) for row in body]
-	data_lemmas = [ e["lemma"] for e in data]
-	for s in submissions:
-		if s["lemma"] in data_lemmas:
-			print(f"⚠⚠⚠ Lemma ⟪{s['lemma']}⟫ is already in the lexicon!")
-		else:
-			data_lemmas.append(s["lemma"])
-			data.append(s)
+		data_lemmas = [ e["lemma"] for e in data]
+		for s in submissions:
+			if s["lemma"] in data_lemmas:
+				print(f"⚠⚠⚠ Lemma ⟪{s['lemma']}⟫ is already in the lexicon!")
+			else:
+				data_lemmas.append(s["lemma"])
+				data.append(s)
 	return data
 
 def as_map(row, header):
