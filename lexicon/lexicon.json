@@ -8351,6 +8351,23 @@
     "eng_jvs_glosswords": "me | the speaker ‖ the speaker | "
   },
   {
+    "lemma": ".imli",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "V",
+    "selmaho": "BRIVLA",
+    "morphotype": "",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "",
+    "eng_etymological_notes": "Hindi इमली imlī",
+    "eng_definition": "➊ is a tamarind tree.",
+    "eng_notes": ""
+  },
+  {
     "lemma": ".impera",
     "discriminator": "",
     "dialect": "",
@@ -53066,6 +53083,23 @@
     "eng_definition": "➊ is a circularly ordered sequence by rule ➋ on unordered set ➌.",
     "eng_notes": "Cf. {clupa}, {porsi}.",
     "eng_jvs_glosswords": "circularly ordered sequence |  ‖ circular sequence | "
+  },
+  {
+    "lemma": "curbanfi",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "V",
+    "selmaho": "BRIVLA",
+    "morphotype": "",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "",
+    "eng_etymological_notes": "",
+    "eng_definition": "➊ is a caecilians amphibian (Gymnophiona order).",
+    "eng_notes": ""
   },
   {
     "lemma": "curfi'e",
@@ -123510,6 +123544,23 @@
     "eng_jvs_glosswords": "panda | "
   },
   {
+    "lemma": "latcybanfi",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "V",
+    "selmaho": "BRIVLA",
+    "morphotype": "",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "",
+    "eng_etymological_notes": "",
+    "eng_definition": "➊ is a salamander.",
+    "eng_notes": ""
+  },
+  {
     "lemma": "latfekspa",
     "discriminator": "",
     "dialect": "",
@@ -177827,6 +177878,23 @@
     "eng_definition": "➊ is a/the tail/appendix [body-part] of ➋; [metaphor: trailing, following portion/appendage].",
     "eng_notes": "See also {nalci}, {pimlu}, se {lidne}, {trixe}, {birka}, {jimca}.",
     "eng_jvs_glosswords": "tail | "
+  },
+  {
+    "lemma": "rebybanfi",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "V",
+    "selmaho": "BRIVLA",
+    "morphotype": "",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "",
+    "eng_etymological_notes": "",
+    "eng_definition": "➊ is a salamander.",
+    "eng_notes": ""
   },
   {
     "lemma": "rebybo'u",
@@ -261194,6 +261262,23 @@
     "eng_definition": "➊ is meleagrology based on methodology ➋.",
     "eng_jvs_glosswords": "meleagrology | ",
     "eng_jvs_keywords": "1 | meleagrology |  ‖ 2 | meleagrology methodology | "
+  },
+  {
+    "lemma": "xulbanfi",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "V",
+    "selmaho": "BRIVLA",
+    "morphotype": "",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "",
+    "eng_etymological_notes": "",
+    "eng_definition": "➊ is an amphibian of the Lissamphibia (“smooth amphibian”) subclass.",
+    "eng_notes": ""
   },
   {
     "lemma": "xulbu'u",
