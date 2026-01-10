@@ -102653,6 +102653,23 @@
     "eng_jvs_glosswords": "criticize |  ‖ reprimand |  ‖ reproach | "
   },
   {
+    "lemma": "jutcme",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "V",
+    "selmaho": "BRIVLA",
+    "morphotype": "",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "",
+    "eng_etymological_notes": "",
+    "eng_definition": "➊ is a lifeform taxon (e.g. species…) name of ➋.",
+    "eng_notes": ""
+  },
+  {
     "lemma": "jutcmi",
     "discriminator": "",
     "dialect": "",
@@ -105021,6 +105038,23 @@
     "eng_definition": "➊ (agent) is an agentive entrepreneur that commences business/venture/enterprise ➋ with chartering authority ➌ with intention/purpose/market ➍",
     "eng_notes": "x1 is an initial business venturer; partners and support can be specified by other means. Official chartering is implied.",
     "eng_jvs_glosswords": "entrepreneur | initial business venturer"
+  },
+  {
+    "lemma": "kagycitsi",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "V",
+    "selmaho": "BRIVLA",
+    "morphotype": "",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "",
+    "eng_etymological_notes": "kagni citsi",
+    "eng_definition": "➊ is a fiscal quarter of ➋ (organisation/entity)",
+    "eng_notes": ""
   },
   {
     "lemma": "kagyfu'e",
@@ -264464,6 +264498,23 @@
     "eng_definition": "➊ is a handkerchief.",
     "eng_notes": "Cf. {daskybu'u}.",
     "eng_jvs_glosswords": "handkerchief | "
+  },
+  {
+    "lemma": "zbiflebi'a",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "V",
+    "selmaho": "BRIVLA",
+    "morphotype": "",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "",
+    "eng_etymological_notes": "",
+    "eng_definition": "➊ is sick with common cold.",
+    "eng_notes": ""
   },
   {
     "lemma": "zbijoimolpunli",
