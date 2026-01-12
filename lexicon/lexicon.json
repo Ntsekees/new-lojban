@@ -59708,6 +59708,23 @@
     "eng_jvs_glosswords": "tooth | "
   },
   {
+    "lemma": "dencilta",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "V",
+    "selmaho": "BRIVLA",
+    "morphotype": "",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "",
+    "eng_etymological_notes": "",
+    "eng_definition": "➊ is dental floss.",
+    "eng_notes": ""
+  },
+  {
     "lemma": "dencro",
     "discriminator": "",
     "dialect": "",
@@ -69181,6 +69198,23 @@
     "etymology": "fam, jbo, fanmo; li'a, jbo, cliva",
     "eng_definition": "➊ quits / abandons / renounces ➋ via route ➌.",
     "eng_jvs_glosswords": "abandon | quit ‖ quit | exit ‖ renounce | quit"
+  },
+  {
+    "lemma": "famli'i",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "V",
+    "selmaho": "BRIVLA",
+    "morphotype": "",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "",
+    "eng_etymological_notes": "fanmo linji",
+    "eng_definition": "➊ is a finish line of course ➋",
+    "eng_notes": ""
   },
   {
     "lemma": "famnalka'e",
@@ -142269,6 +142303,23 @@
     "eng_definition": "➊ is a structure of parts ➋ as a monument/memorial to ➌.",
     "eng_notes": "Cf. {mrostu}.",
     "eng_jvs_glosswords": "memorial |  ‖ monument | "
+  },
+  {
+    "lemma": "mojyzei",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "V",
+    "selmaho": "BRIVLA",
+    "morphotype": "",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "",
+    "eng_etymological_notes": "",
+    "eng_definition": "Information ➊ is subject to damnatio memoriae (condemnation of memory), talking about it or keeping records about it is punishable under authority ➋.",
+    "eng_notes": ""
   },
   {
     "lemma": "mojyzilcmi",
@@ -271604,6 +271655,23 @@
     "eng_definition": "➊ is an amusement/diversion pursued by ➋, enjoyable for reason ➌.",
     "eng_notes": "Also hobby, pastime. Cf. {ci'erkei}, {kelci'e}, {nunkei}.",
     "eng_jvs_glosswords": "amusement | activity"
+  },
+  {
+    "lemma": "zundai",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "V",
+    "selmaho": "BRIVLA",
+    "morphotype": "",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "",
+    "eng_etymological_notes": "zunti dacti",
+    "eng_definition": "➊ is an obstacle",
+    "eng_notes": ""
   },
   {
     "lemma": "zungi",
