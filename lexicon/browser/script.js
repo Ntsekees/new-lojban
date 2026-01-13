@@ -10,6 +10,20 @@ function is_array(v) {
     return Object.prototype.toString.call(v) === '[object Array]';
 }
 
+const HTML_CHAR_TO_ENTITY = {
+    '&': '&amp;',
+    '<': '&lt;',
+    '>': '&gt;'
+};
+
+function with_replaced_html_tag(tag) {
+    return HTML_CHAR_TO_ENTITY[tag] || tag;
+}
+
+function with_escaped_html(str) {
+    return str.replace(/[&<>]/g, with_replaced_html_tag);
+}
+
 function hget(map, field) {
 	if (map === null || field === null) return "";
 	if (field.endsWith("_def")) field += "inition";
@@ -81,6 +95,10 @@ function html_entry_for(entry, field_selection) {
 			continue;
 		if (!["lemma", "discriminator", "sypertype", "eng_definition"].includes(field)) {
 			value = entry[field];
+			if (!is_string(value)) {
+				value = JSON.stringify(value);
+			}
+			value = with_escaped_html(value);
 			if (field == "sememe") {
 				value = "<a href='https://ntsekees.github.io/Predilex/viewer/index.html?id=" + value + "'>" + value + "</a>";
 			}
