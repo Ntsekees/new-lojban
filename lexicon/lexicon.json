@@ -219540,6 +219540,7 @@
     "examples": [],
     "synonyms": "",
     "etymology": "",
+    "eng_etymological_notes": "Algorithmically generated from: ZH 停 tíng | EN stop | ES dejar | HI समाप्त samapt | AR تَوَقَّفَ tawaqqafa | BN সমাপ্ত samapt | RU переста́ть perestátʹ | PT parar | IN berakhir | JP 止まる tomaru | DE aufhören | FR s’arrêter.\nCommand: ⟪python gismu_score.py -d gismu-list.txt -w 0.238,0.150,0.114,0.109,0.091,0.067,0.056,0.053,0.033,0.031,0.030,0.027 tin stop dex samapt tauakafa samapt peresta par beraxir tomar aufxor saret⟫.",
     "eng_definition": "➊ comes to an end; ➊ ceases to happen.",
     "eng_notes": "Synonymous with {tolcfa}, {fausti}, {famfau}.",
     "eng_jvs_glosswords": "come to an end | "
