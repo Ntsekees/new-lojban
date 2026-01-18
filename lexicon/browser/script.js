@@ -86,9 +86,11 @@ function validated_by_filter(entry, filter) {
 }
 
 function html_entry_for(entry, field_selection) {
-	ehtml = "<summary class='entry-head'><b style='color: #002255;'>" + entry["lemma"] + "</b>";
-	ehtml += " <i style='font-size: 75%;'>" + entry["supertype"] + "</i> — ";
-	ehtml += entry["eng_definition"] + "</summary>";
+	ehtml = "<summary class='entry-head'><b style='color: #002255;'>"
+		+ with_escaped_html(entry["lemma"]) + "</b>";
+	ehtml += " <i style='font-size: 75%;'>"
+		+ with_escaped_html(entry["supertype"]) + "</i> — ";
+	ehtml += with_escaped_html(entry["eng_definition"]) + "</summary>";
 	details = [];
 	for (field in entry) {
 		if (field_selection === "AllNonempty" && ["", []].includes(entry[field]))
