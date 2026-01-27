@@ -86,6 +86,11 @@ function validated_by_filter(entry, filter) {
 }
 
 function html_entry_for(entry, field_selection) {
+	if (!entry.hasOwnProperty("eng_definition")) {
+		var lemma = entry["lemma"];
+		console.log(`⚠ ⟦${lemma}⟧ lacks field ⟦eng_definition⟧!`);
+		entry["eng_definition"] = "";
+	}
 	ehtml = "<summary class='entry-head'><b style='color: #002255;'>"
 		+ with_escaped_html(entry["lemma"]) + "</b>";
 	ehtml += " <i style='font-size: 75%;'>"
