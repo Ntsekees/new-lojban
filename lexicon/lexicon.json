@@ -47,7 +47,8 @@
     "examples": [],
     "synonyms": "",
     "etymology": "",
-    "eng_definition": "(➊; undefined grammatical construction: a connective of some sort, but possibly acting as a brivla)."
+    "eng_definition": "(➊; undefined grammatical construction: a connective of some sort, but possibly acting as a brivla).",
+    "eng_notes": "An example of a \"{zei}\"-lujvo involving only cmavo and not involving any pro-sumti, pro-bridi, or numerals. It is not clear whether this word should be a brivla (because it is a lujvo) or a cmavo (because its veljvo solely consist of cmavo)."
   },
   {
     "lemma": ".a'a",
@@ -71237,7 +71238,8 @@
     "etymology": "",
     "eng_etymological_notes": "",
     "eng_definition": "➊ is a traffic cone.",
-    "eng_notes": ""
+    "eng_notes": "",
+    "eng_jvs_glosswords": "traffic cone | "
   },
   {
     "lemma": "dagykoi",
@@ -71641,7 +71643,7 @@
     "examples": [],
     "synonyms": "",
     "etymology": "dakl, jbo, dakli; y, , ; cka, jbo, ckana",
-    "eng_definition": "➊ is a sleeping bag for holding ➌.",
+    "eng_definition": "➊ is a sleeping bag for holding ➋.",
     "eng_notes": "Cf. {dadycka}.",
     "eng_jvs_glosswords": "sleeping bag | "
   },
@@ -71707,7 +71709,7 @@
     "examples": [],
     "synonyms": "",
     "etymology": "",
-    "eng_definition": "➊ is a machete with blade.",
+    "eng_definition": "➊ is a machete.",
     "eng_jvs_glosswords": "machete | ",
     "eng_jvs_keywords": "1 | machete | ",
     "deu_definition": "➊ ist eine Machete mit einer Klinge aus dem Material ➋.",
