@@ -145106,6 +145106,23 @@
     "epo_notes": ""
   },
   {
+    "lemma": "ki'ei",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "",
+    "selmaho": "KIHEI",
+    "morphotype": "",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "",
+    "eng_etymological_notes": "Related to Lojban ⟪ki⟫.",
+    "eng_definition": "Discourse-level frame-setter: ⟪ki'ei X⟫ sets X as the modal context or ‘world' for the following utterances, until reset by a new ⟪ki'ei⟫-phrase.",
+    "eng_notes": ""
+  },
+  {
     "lemma": "ki'enai",
     "discriminator": "",
     "dialect": "",
