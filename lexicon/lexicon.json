@@ -3447,6 +3447,40 @@
     "eng_jvs_keywords": "1 | something Abkhazian |  ‖ 2 | aspect | aspect of being Abkhazian"
   },
   {
+    "lemma": ".apsyce'u",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "V",
+    "selmaho": "BRIVLA",
+    "morphotype": "",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "",
+    "eng_etymological_notes": "",
+    "eng_definition": "➊ is a beeswarm.",
+    "eng_notes": ""
+  },
+  {
+    "lemma": ".apsyzda",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "V",
+    "selmaho": "BRIVLA",
+    "morphotype": "",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "",
+    "eng_etymological_notes": "",
+    "eng_definition": "➊ is a beehive.",
+    "eng_notes": ""
+  },
+  {
     "lemma": ".aptci",
     "discriminator": "",
     "dialect": "",
@@ -189984,6 +190018,23 @@
     "jpn_jvs_glosswords": "引き動かす |  ‖ 引いて動かす |  ‖ 動かして引く |  ‖ 引っ張って動かす |  ‖ 動かし引っ張る |  ‖ 動かして引っ張る | "
   },
   {
+    "lemma": "muvyiontymai",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "V",
+    "selmaho": "BRIVLA",
+    "morphotype": "",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "",
+    "eng_etymological_notes": "",
+    "eng_definition": "➊ is an electrolyte.",
+    "eng_notes": ""
+  },
+  {
     "lemma": "muvykemlolgai",
     "discriminator": "",
     "dialect": "",
@@ -311153,6 +311204,23 @@
     "etymology": "",
     "eng_definition": "➊ reflects the Turkish Cypriot culture/nationality/language in aspect ➋",
     "eng_jvs_glosswords": "Turkish Cyprus | "
+  },
+  {
+    "lemma": "turliba",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "V",
+    "selmaho": "BRIVLA",
+    "morphotype": "",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "",
+    "eng_etymological_notes": "Shortening of ⟪truvlibasti⟫.",
+    "eng_definition": "➊ coups ➋ for assuming governance function ➌ (property).",
+    "eng_notes": ""
   },
   {
     "lemma": "turne'i",
