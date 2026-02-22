@@ -43276,7 +43276,7 @@
     "eng_jvs_keywords": "1 | helicopter | "
   },
   {
-    "lemma": "carnamajga",
+    "lemma": "carnamasli",
     "discriminator": "",
     "dialect": "",
     "supertype": "V",
@@ -170059,7 +170059,7 @@
     "rus_jvs_glosswords": "катион | "
   },
   {
-    "lemma": "ma'u zei majga",
+    "lemma": "ma'u zei masli",
     "discriminator": "",
     "dialect": "",
     "supertype": "",
@@ -170071,7 +170071,7 @@
     "examples": [],
     "synonyms": "",
     "etymology": "",
-    "eng_definition": "➊ is massive/has positive mass.",
+    "eng_definition": "➊ is massive, has positive mass.",
     "eng_jvs_glosswords": "massive | having positive mass"
   },
   {
@@ -171108,7 +171108,7 @@
     "eng_jvs_glosswords": "Hungarian | culture, language, or nationality"
   },
   {
-    "lemma": "majgybra",
+    "lemma": "maslybra",
     "discriminator": "",
     "dialect": "",
     "supertype": "V",
@@ -171119,12 +171119,12 @@
     "sememe": "",
     "examples": [],
     "synonyms": "",
-    "etymology": "majg, jbo, majga; y, , ; bra, jbo, barda",
+    "etymology": "masl, jbo, masli; y, , ; bra, jbo, barda",
     "eng_definition": "➊ is massive, ➊ has a great mass by standard or relatively to ➋ (plural)",
-    "eng_notes": "See also {majga}.",
+    "eng_notes": "See also {masli}.",
     "eng_jvs_glosswords": "massive | great mass",
-    "jbo_definition": "➊ barda lo ka ma kau ce'u majga ku ➋",
-    "jbo_notes": "srana fa zo {majga}"
+    "jbo_definition": "➊ barda lo ka ma kau ce'u masli ku ➋",
+    "jbo_notes": "srana fa zo {masli}"
   },
   {
     "lemma": "majrsto",
@@ -202030,7 +202030,7 @@
     "eng_jvs_glosswords": "agender | "
   },
   {
-    "lemma": "nonmajga",
+    "lemma": "nonmasli",
     "discriminator": "",
     "dialect": "",
     "supertype": "V",
@@ -202041,9 +202041,9 @@
     "sememe": "",
     "examples": [],
     "synonyms": "",
-    "etymology": "non, jbo, no; majga, jbo, majga",
-    "eng_definition": "➊ is massless/is a massless particle.",
-    "eng_notes": "{majga} is an experimental gismu.",
+    "etymology": "non, jbo, no; masli, jbo, masli",
+    "eng_definition": "➊ is massless.",
+    "eng_notes": "{masli} is an experimental gismu.",
     "eng_jvs_glosswords": "massless | "
   },
   {
@@ -290805,7 +290805,7 @@
     "synonyms": "",
     "etymology": "",
     "eng_definition": "➊ (object) has charge ➋ (number) in units ➌ for interaction/of type ➍ and in/by/using convention ➎",
-    "eng_notes": "Generic type of charge; individual charges tend to be scalars. For electromagnetism, the meaning of a \"positive charge\" is either the signum of the charge of an electron for electricity or the signum of the charge of a south magnet for magnetism. Includes mass (gravitation charge ({gavytcaxe}) if it is being treated as such; x2 default: {ma'u}), electric charge ({dicmytcaxe}), (strong) isospin, weak isospin, color charge (Quantum Chromodynamics; {tsabytcaxe}), intrinsic spin/Dirac-Pauli charge, most quantum numbers (lepton number, baryon number), etc. See also: {majga}, {dikca}, {eldicka'u}, {kuardicka'u}, {paulcna}, {plankexu}, {grake}.",
+    "eng_notes": "Generic type of charge; individual charges tend to be scalars. For electromagnetism, the meaning of a \"positive charge\" is either the signum of the charge of an electron for electricity or the signum of the charge of a south magnet for magnetism. Includes mass (gravitation charge ({gavytcaxe}) if it is being treated as such; x2 default: {ma'u}), electric charge ({dicmytcaxe}), (strong) isospin, weak isospin, color charge (Quantum Chromodynamics; {tsabytcaxe}), intrinsic spin/Dirac-Pauli charge, most quantum numbers (lepton number, baryon number), etc. See also: {masli}, {dikca}, {eldicka'u}, {kuardicka'u}, {paulcna}, {plankexu}, {grake}.",
     "eng_jvs_glosswords": "charge | general/generic"
   },
   {
