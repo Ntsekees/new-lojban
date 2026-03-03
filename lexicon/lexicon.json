@@ -69731,6 +69731,23 @@
     "swe_jvs_glosswords": "bröst | thorax"
   },
   {
+    "lemma": "cutslu",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "V",
+    "selmaho": "BRIVLA",
+    "morphotype": "",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "",
+    "eng_etymological_notes": "cutne and sluji",
+    "eng_definition": "➊  is the pectorals (pecs, chest muscles) of ➋",
+    "eng_notes": "Loaned from lensisku"
+  },
+  {
     "lemma": "cutybo'u",
     "discriminator": "",
     "dialect": "",
@@ -130685,6 +130702,23 @@
     "fra-facile_notes": ""
   },
   {
+    "lemma": "jmezai",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "V",
+    "selmaho": "BRIVLA",
+    "morphotype": "",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "",
+    "eng_etymological_notes": "jmena and zarci",
+    "eng_definition": "➊ is a jewelry store selling ➋, operated by ➌",
+    "eng_notes": "loaned from lensisku"
+  },
+  {
     "lemma": "jmibi'o",
     "discriminator": "",
     "dialect": "",
@@ -171108,25 +171142,6 @@
     "eng_jvs_glosswords": "Hungarian | culture, language, or nationality"
   },
   {
-    "lemma": "maslybra",
-    "discriminator": "",
-    "dialect": "",
-    "supertype": "V",
-    "selmaho": "BRIVLA",
-    "morphotype": "lujvo",
-    "traits": "",
-    "rafsis": "",
-    "sememe": "",
-    "examples": [],
-    "synonyms": "",
-    "etymology": "masl, jbo, masli; y, , ; bra, jbo, barda",
-    "eng_definition": "➊ is massive, ➊ has a great mass by standard or relatively to ➋ (plural)",
-    "eng_notes": "See also {masli}.",
-    "eng_jvs_glosswords": "massive | great mass",
-    "jbo_definition": "➊ barda lo ka ma kau ce'u masli ku ➋",
-    "jbo_notes": "srana fa zo {masli}"
-  },
-  {
     "lemma": "majrsto",
     "discriminator": "",
     "dialect": "",
@@ -174377,6 +174392,25 @@
     "eng_etymological_notes": "Blend: eng, mass; spa, masa; fra, masse; cmn, 質量/zhìliàng",
     "eng_definition": "➊ is the mass (fundamental property of matter) of ➋.",
     "eng_notes": ""
+  },
+  {
+    "lemma": "maslybra",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "V",
+    "selmaho": "BRIVLA",
+    "morphotype": "lujvo",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "masl, jbo, masli; y, , ; bra, jbo, barda",
+    "eng_definition": "➊ is massive, ➊ has a great mass by standard or relatively to ➋ (plural)",
+    "eng_notes": "See also {masli}.",
+    "eng_jvs_glosswords": "massive | great mass",
+    "jbo_definition": "➊ barda lo ka ma kau ce'u masli ku ➋",
+    "jbo_notes": "srana fa zo {masli}"
   },
   {
     "lemma": "masnbi",
@@ -188425,6 +188459,23 @@
     "eng_jvs_glosswords": "dendrology |  ‖ xylology | "
   },
   {
+    "lemma": "mudyturgu'a",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "V",
+    "selmaho": "BRIVLA",
+    "morphotype": "",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "",
+    "eng_etymological_notes": "mudri, stuzi, and gunka",
+    "eng_definition": " ➊ is a carpenter specializing in ➋",
+    "eng_notes": "Loaned from lensisku"
+  },
+  {
     "lemma": "mudyxultci",
     "discriminator": "",
     "dialect": "",
@@ -197290,6 +197341,23 @@
     "etymology": "nelc, jbo, nelci; y, , ; mau, jbo, zmadu",
     "eng_definition": "➊, more than ➋, likes ➌ by amount ➍.",
     "eng_notes": "Example 12.91 (cll 1.1)."
+  },
+  {
+    "lemma": "nelmau",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "V",
+    "selmaho": "BRIVLA",
+    "morphotype": "",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "",
+    "eng_etymological_notes": "nelci and zmadu",
+    "eng_definition": "➊  is a greater liker than ➋ is of ➌ by amount/excess ➍",
+    "eng_notes": "loaned from lensisku"
   },
   {
     "lemma": "nelrai",
@@ -247041,6 +247109,23 @@
     "eng_notes": "Cf. {srasu}, {katna}, {minji}."
   },
   {
+    "lemma": "saska'ami'i",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "V",
+    "selmaho": "BRIVLA",
+    "morphotype": "",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "",
+    "eng_etymological_notes": "",
+    "eng_definition": "➊ is a lawnmower.",
+    "eng_notes": ""
+  },
+  {
     "lemma": "saske",
     "discriminator": "",
     "dialect": "",
@@ -279694,6 +279779,23 @@
     "hun_definition": "➊ függőleges ➋ vonatkoztatási rendszerben",
     "hun_notes": "(Lásd még: {sanli}, {pinta})",
     "hun_jvs_glosswords": "függőleges | "
+  },
+  {
+    "lemma": "srakami",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "V",
+    "selmaho": "BRIVLA",
+    "morphotype": "",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "saska'ami'i",
+    "eng_etymological_notes": "fu’ivla to shorten saska’ami’i",
+    "eng_definition": "➊ is a lawnmower.",
+    "eng_notes": ""
   },
   {
     "lemma": "sraku",
@@ -328173,6 +328275,23 @@
     "eng_definition": "➊ is a cape, a headland."
   },
   {
+    "lemma": "xaskru",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "V",
+    "selmaho": "BRIVLA",
+    "morphotype": "",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "",
+    "eng_etymological_notes": "xasmi and kruvi",
+    "eng_definition": "➊ is a swell/wave in sea ➋.",
+    "eng_notes": "By kikcladaxi. Should this be jackru instead."
+  },
+  {
     "lemma": "xasli",
     "discriminator": "",
     "dialect": "",
@@ -328362,6 +328481,23 @@
     "eng_jvs_glosswords": "sea turtle | ",
     "jbo_definition": "➊ torka ➋ noi lo'e torka be ke'a cu xabju lo xamsi",
     "jbo_notes": ".i ko catlu zo {xamsi} .e zo {torka} .e zo {xasycakrespa}"
+  },
+  {
+    "lemma": "xasybo'a",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "V",
+    "selmaho": "BRIVLA",
+    "morphotype": "",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "",
+    "eng_etymological_notes": "",
+    "eng_definition": "➊ is a swell/wave in sea ➋.",
+    "eng_notes": ""
   },
   {
     "lemma": "xasycakrespa",
@@ -338126,6 +338262,23 @@
     "hun_definition": "➊ egy öböl ➋ partvonalon",
     "hun_notes": "(Lásd még: {lalxu}, {xamsi})",
     "hun_jvs_glosswords": "öböl | "
+  },
+  {
+    "lemma": "zbapla",
+    "discriminator": "",
+    "dialect": "",
+    "supertype": "V",
+    "selmaho": "BRIVLA",
+    "morphotype": "",
+    "traits": "",
+    "rafsis": "",
+    "sememe": "",
+    "examples": [],
+    "synonyms": "",
+    "etymology": "",
+    "eng_etymological_notes": "zbasu and platu",
+    "eng_definition": "➊ is an engineer/architect who produces schematics/plans ➋ for making/assembling ➌ ",
+    "eng_notes": "Loaned from lensisku"
   },
   {
     "lemma": "zbaradosti",
