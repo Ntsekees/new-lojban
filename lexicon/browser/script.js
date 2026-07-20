@@ -100,7 +100,7 @@ function html_entry_for(entry, field_selection) {
 	for (field in entry) {
 		if (field_selection === "AllNonempty" && ["", []].includes(entry[field]))
 			continue;
-		if (!["lemma", "discriminator", "sypertype", "eng_definition"].includes(field)) {
+		if (!["lemma", "discriminator", "supertype", "eng_definition"].includes(field)) {
 			value = entry[field];
 			if (!is_string(value)) {
 				value = JSON.stringify(value);
